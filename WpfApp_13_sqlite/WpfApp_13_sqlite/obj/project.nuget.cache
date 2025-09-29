@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eFFb5msC/wk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_13_sqlite\\WpfApp_13_sqlite\\WpfApp_13_sqlite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512"
+  ],
+  "logs": []
+}

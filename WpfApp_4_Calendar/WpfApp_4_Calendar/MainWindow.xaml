@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp_4_Calendar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp_4_Calendar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel HorizontalAlignment="Center" Margin="30">
+        <Calendar x:Name="_Calendar" 
+                  HorizontalAlignment="Left" 
+                  VerticalAlignment="Top"
+                  Margin="0,15" 
+                  DisplayDateStart="2020/1/1 00:00:00"
+                  DisplayDateEnd="2030/1/1 00:00:00"
+                  SelectionMode="MultipleRange"/>
+        <Button Content="选择" Click="Button_Click"/>
+    </StackPanel>
+</Window>

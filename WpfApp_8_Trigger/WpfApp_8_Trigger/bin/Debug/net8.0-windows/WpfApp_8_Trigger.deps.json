@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfApp_8_Trigger/1.0.0": {
+        "runtime": {
+          "WpfApp_8_Trigger.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp_8_Trigger/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

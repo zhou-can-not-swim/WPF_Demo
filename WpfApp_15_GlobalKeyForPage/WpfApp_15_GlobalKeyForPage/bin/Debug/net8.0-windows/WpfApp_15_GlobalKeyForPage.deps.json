@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfApp_15_GlobalKeyForPage/1.0.0": {
+        "runtime": {
+          "WpfApp_15_GlobalKeyForPage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp_15_GlobalKeyForPage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

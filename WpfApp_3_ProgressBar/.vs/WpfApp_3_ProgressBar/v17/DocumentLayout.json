@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_3_ProgressBar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD578B8-DBB4-447E-9240-58F828DB9431}|WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_3_progressbar\\wpfapp_3_progressbar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BBD578B8-DBB4-447E-9240-58F828DB9431}|WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj|solutionrelative:wpfapp_3_progressbar\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD578B8-DBB4-447E-9240-58F828DB9431}|WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_3_progressbar\\wpfapp_3_progressbar\\wpfapp_3_progressbar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BBD578B8-DBB4-447E-9240-58F828DB9431}|WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj|solutionrelative:wpfapp_3_progressbar\\wpfapp_3_progressbar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD578B8-DBB4-447E-9240-58F828DB9431}|WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_3_progressbar\\wpfapp_3_progressbar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD578B8-DBB4-447E-9240-58F828DB9431}|WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj|solutionrelative:wpfapp_3_progressbar\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WpfApp_3_ProgressBar",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj",
+              "RelativeDocumentMoniker": "WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj",
+              "RelativeToolTip": "WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-21T07:04:28.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp_3_ProgressBar\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp_3_ProgressBar\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-21T05:53:04.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_3_ProgressBar\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_3_ProgressBar\\WpfApp_3_ProgressBar\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp_3_ProgressBar\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:53:04.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

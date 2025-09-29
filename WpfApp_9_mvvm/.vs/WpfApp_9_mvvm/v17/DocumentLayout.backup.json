@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\mainviewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\mainviewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\model\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\model\\usermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\helper\\userdatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\helper\\userdatabasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_9_mvvm\\wpfapp_9_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9E98D26A-71B9-4CA4-9692-42FB5085B275}|WpfApp_9_mvvm\\WpfApp_9_mvvm.csproj|solutionrelative:wpfapp_9_mvvm\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 158,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\AssemblyInfo.cs",
+              "RelativeToolTip": "WpfApp_9_mvvm\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T02:10:01.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp_9_mvvm\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-23T02:06:55.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp_9_mvvm\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T02:49:35.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "WpfApp_9_mvvm\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T02:55:05.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\Model\\User.cs",
+              "RelativeToolTip": "WpfApp_9_mvvm\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T03:16:18.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\MainViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\MainViewModel\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\MainViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "WpfApp_9_mvvm\\MainViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T02:09:08.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserManager.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\Model\\UserManager.cs",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\Model\\UserManager.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\Model\\UserManager.cs",
+              "RelativeToolTip": "WpfApp_9_mvvm\\Model\\UserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T02:11:13.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\Helper\\UserDatabaseHelper.cs",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\Helper\\UserDatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\Helper\\UserDatabaseHelper.cs",
+              "RelativeToolTip": "WpfApp_9_mvvm\\Helper\\UserDatabaseHelper.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T02:32:17.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\App.xaml",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\App.xaml",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\App.xaml",
+              "RelativeToolTip": "WpfApp_9_mvvm\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-23T02:49:33.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_9_mvvm\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_9_mvvm\\WpfApp_9_mvvm\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp_9_mvvm\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T02:06:55.108Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

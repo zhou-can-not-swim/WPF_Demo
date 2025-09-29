@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_2_loginUi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA66B84-9983-4334-B580-BE3BFD14AA4F}|WpfApp_2_loginUi\\WpfApp_2_loginUi.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_2_loginui\\wpfapp_2_loginui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1DA66B84-9983-4334-B580-BE3BFD14AA4F}|WpfApp_2_loginUi\\WpfApp_2_loginUi.csproj|solutionrelative:wpfapp_2_loginui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA66B84-9983-4334-B580-BE3BFD14AA4F}|WpfApp_2_loginUi\\WpfApp_2_loginUi.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_2_loginui\\wpfapp_2_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA66B84-9983-4334-B580-BE3BFD14AA4F}|WpfApp_2_loginUi\\WpfApp_2_loginUi.csproj|solutionrelative:wpfapp_2_loginui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 146,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_2_loginUi\\WpfApp_2_loginUi\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_2_loginUi\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_2_loginUi\\WpfApp_2_loginUi\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp_2_loginUi\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T05:49:51.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_2_loginUi\\WpfApp_2_loginUi\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp_2_loginUi\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_2_loginUi\\WpfApp_2_loginUi\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp_2_loginUi\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-19T08:03:20.354Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

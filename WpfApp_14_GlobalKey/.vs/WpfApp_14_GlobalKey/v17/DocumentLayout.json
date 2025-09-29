@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_14_globalkey\\wpfapp_14_globalkey\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|solutionrelative:wpfapp_14_globalkey\\nativemethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_14_globalkey\\wpfapp_14_globalkey\\hotkeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|solutionrelative:wpfapp_14_globalkey\\hotkeymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_14_globalkey\\wpfapp_14_globalkey\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|solutionrelative:wpfapp_14_globalkey\\settingswindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_14_globalkey\\wpfapp_14_globalkey\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|solutionrelative:wpfapp_14_globalkey\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_14_globalkey\\wpfapp_14_globalkey\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|solutionrelative:wpfapp_14_globalkey\\settingswindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|c:\\users\\qiyu.zhou\\desktop\\wpf\\wpfapp_14_globalkey\\wpfapp_14_globalkey\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{44095520-FE45-49BF-B5B8-5123C47BA56D}|WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey.csproj|solutionrelative:wpfapp_14_globalkey\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SettingsWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\SettingsWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp_14_GlobalKey\\SettingsWindow.xaml",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\SettingsWindow.xaml",
+              "RelativeToolTip": "WpfApp_14_GlobalKey\\SettingsWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-26T08:37:42.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SettingsWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\SettingsWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_14_GlobalKey\\SettingsWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\SettingsWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp_14_GlobalKey\\SettingsWindow.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:20:07.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpfApp_14_GlobalKey\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\MainWindow.xaml",
+              "RelativeToolTip": "WpfApp_14_GlobalKey\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-26T08:19:53.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NativeMethods.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\NativeMethods.cs",
+              "RelativeDocumentMoniker": "WpfApp_14_GlobalKey\\NativeMethods.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\NativeMethods.cs",
+              "RelativeToolTip": "WpfApp_14_GlobalKey\\NativeMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:19:39.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HotkeyManager.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\HotkeyManager.cs",
+              "RelativeDocumentMoniker": "WpfApp_14_GlobalKey\\HotkeyManager.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\HotkeyManager.cs",
+              "RelativeToolTip": "WpfApp_14_GlobalKey\\HotkeyManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T08:00:23.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp_14_GlobalKey\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\wpf\\WpfApp_14_GlobalKey\\WpfApp_14_GlobalKey\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpfApp_14_GlobalKey\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T03:44:08.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

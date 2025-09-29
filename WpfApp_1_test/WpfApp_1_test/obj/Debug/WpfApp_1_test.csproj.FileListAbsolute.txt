@@ -1,0 +1,16 @@
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\bin\Debug\WpfApp_1_test.exe.config
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\bin\Debug\WpfApp_1_test.exe
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\bin\Debug\WpfApp_1_test.pdb
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test.csproj.AssemblyReference.cache
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\MainWindow.g.cs
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\App.g.cs
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test_MarkupCompile.cache
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test_MarkupCompile.lref
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\MainWindow.baml
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test.g.resources
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test.Properties.Resources.resources
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test.csproj.GenerateResource.cache
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test.csproj.CoreCompileInputs.cache
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test.exe
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test.pdb
+C:\Users\qiyu.zhou\Desktop\wpf\WpfApp_1_test\WpfApp_1_test\obj\Debug\WpfApp_1_test.exe.config

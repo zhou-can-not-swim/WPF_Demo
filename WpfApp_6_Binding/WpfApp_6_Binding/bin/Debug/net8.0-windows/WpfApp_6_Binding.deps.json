@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfApp_6_Binding/1.0.0": {
+        "runtime": {
+          "WpfApp_6_Binding.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp_6_Binding/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

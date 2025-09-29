@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp_7_IValueConverter", "WpfApp_7_IValueConverter\WpfApp_7_IValueConverter.csproj", "{41014405-C149-4316-92CD-A47D0F62EAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41014405-C149-4316-92CD-A47D0F62EAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41014405-C149-4316-92CD-A47D0F62EAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41014405-C149-4316-92CD-A47D0F62EAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41014405-C149-4316-92CD-A47D0F62EAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C52EC868-A959-46D2-92C7-E0BE5B23536E}
+	EndGlobalSection
+EndGlobal

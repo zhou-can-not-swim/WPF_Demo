@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WpfApp_12_View_ViewModel/1.0.0": {
+        "runtime": {
+          "WpfApp_12_View_ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WpfApp_12_View_ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
